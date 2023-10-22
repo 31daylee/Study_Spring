@@ -9,7 +9,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
-@Service
 public class MemberService { // 비즈니스 처리에 가까움
 
     private final MemberRepository memberRepository;
