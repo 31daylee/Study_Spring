@@ -19,7 +19,7 @@ class MemoryMemberRepositoryTest { // 개발을 다 끝낸 후에 테스트케�
 
 
     @Test
-    public void sava() {
+    public void save() {
         Member member = new Member();
         member.setName("spring");
 
